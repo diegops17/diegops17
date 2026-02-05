@@ -2,9 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/di%C3%AAgo-souza-2670505b/)
 
-![diegops17 GitHub stats](https://github-readme-stats.vercel.app/api?username=diegops17&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegops17&layout=compact&theme=dracula)](https://github.com/diegops17/github-readme-stats)
 
 ### Tecnologias ###
 
